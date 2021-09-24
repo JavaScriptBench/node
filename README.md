@@ -1,14 +1,21 @@
-<!--lint disable no-literal-urls-->
+# NodeJS
 
-<p align="center">
-  <a href="https://nodejs.org/">
-    <img
-      alt="Node.js"
-      src="https://nodejs.org/static/images/logo-light.svg"
-      width="400"
-    />
-  </a>
-</p>
+
+==========================================================================
+## Build
+Just 
+```
+./configure
+make -j4
+```
+
+
+
+
+=========================================================================
+
+
+
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment. It
 executes JavaScript code outside of a browser. For more information on using
@@ -38,18 +45,7 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 * [License](#license)
 
 
-==========================================================================
-## Build
-Just 
-```
-./configure
-make -j4
-```
 
-
-
-
-=========================================================================
 
 ## Release types
 

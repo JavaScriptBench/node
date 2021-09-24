@@ -10,7 +10,8 @@ git checkout v16.10.0
 ./configure
 make -j4
 make -j4 test
-./out/Release/node test.js
+./out/Release/node  test.js
+./out/Release/node --jitless test.js
 ```
 
 

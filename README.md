@@ -5,9 +5,11 @@
 ## Build
 Just 
 ```
+cd node
 ./configure
 make -j4
 make -j4 test
+./out/Release/node test.js
 ```
 
 

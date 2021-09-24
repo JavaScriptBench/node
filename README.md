@@ -6,6 +6,7 @@
 Just 
 ```
 cd node
+git checkout v16.10.0
 ./configure
 make -j4
 make -j4 test

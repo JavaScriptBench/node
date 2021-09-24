@@ -37,10 +37,19 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
   * [Release keys](#release-keys)
 * [License](#license)
 
-## Support
 
-Looking for help? Check out the
-[instructions for getting support](.github/SUPPORT.md).
+==========================================================================
+## Build
+Just 
+```
+./configure
+make -j4
+```
+
+
+
+
+=========================================================================
 
 ## Release types
 

@@ -7,6 +7,7 @@ Just
 ```
 ./configure
 make -j4
+make -j4 test
 ```
 
 
